@@ -19,19 +19,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="demo_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="demo_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/demo_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="18" selection-start="77" selection-end="77" vertical-scroll-proportion="0.08010681">
+            <state line="12" column="10" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="hello.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/demo/hello.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.625">
+            <state line="7" column="5" selection-start="145" selection-end="145" vertical-scroll-proportion="0.14482759">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/demo/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="42" selection-start="100" selection-end="100" vertical-scroll-proportion="-1.875">
+            <state line="3" column="95" selection-start="136" selection-end="136" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
@@ -65,10 +65,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/demo/index.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/demo/hello.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/demo/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/demo_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/demo/hello.html.erb" />
       </list>
     </option>
   </component>
@@ -549,13 +549,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/demo/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="42" selection-start="100" selection-end="100" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="48" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
@@ -563,16 +556,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/demo/hello.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/demo/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.625">
+        <state line="3" column="95" selection-start="136" selection-end="136" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/demo_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="77" selection-end="77" vertical-scroll-proportion="0.08010681">
+        <state line="12" column="10" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/demo/hello.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="5" selection-start="145" selection-end="145" vertical-scroll-proportion="0.14482759">
           <folding />
         </state>
       </provider>
