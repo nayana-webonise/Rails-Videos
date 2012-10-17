@@ -1,7 +1,9 @@
 RailsVideos::Application.routes.draw do
-match "hello" => "demo#hello"
-#match "index" => "demo#index"
+match "demo/hello" => "demo#hello"
+match "demo/index" => "demo#index"
+match "demo/other_hello" => "demo#other_hello"
 resources :demo
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
