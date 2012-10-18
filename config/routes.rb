@@ -3,6 +3,7 @@ match "demo/hello" => "demo#hello"
 match "demo/index" => "demo#index"
 match "demo/other_hello" => "demo#other_hello"
 resources :demo
+resources :users
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
