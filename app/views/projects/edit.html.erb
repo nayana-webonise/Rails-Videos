@@ -1,0 +1,15 @@
+
+
+<h1>Project</h1>
+<%= form_for :project, :url => projects_path  do |f| %>
+
+    <p>
+      Project Name: <br>
+      <%= f.text_field :project_name  %>
+    </p>
+    <p>
+      <%= submit_tag 'Update' %>
+    </p>
+<% end %>
+
+
